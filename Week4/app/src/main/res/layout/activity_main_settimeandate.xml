@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget28"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/lblDateAndTime"
+        android
+        android:layout_width="fill_parent"
+        android:layout_height="47px"
+        android:background="#061D9C"
+        android:textStyle="bold"
+        >
+    </TextView>
+    <Button
+        android:id="@+id/btnDate"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="Set the Date"
+        >
+    </Button>
+    <Button
+        android:id="@+id/btnTime"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Set the Time"
+        >
+    </Button>
+        />
